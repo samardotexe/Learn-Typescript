@@ -1,0 +1,43 @@
+Introduction 
+1. typescript proivides type safety
+2. in javasfcript you can define a variable without a type
+3. in typescript you can define a variable with a type
+ex. let user: string = "sam";
+    let age: number = 30;
+
+but in javascript we can define a variable without a type 
+
+example : var user = "sam";
+example : var user = 30;
+the type of user isn't defined in javascript 
+
+Typescript is interested in knowing the type of your assigned variable and it is tricty sticked to it 
+
+(A is a number so it is a number you can't assign as string to it )
+
+All javascript is a valid typescript code
+
+To config TS file we have to use : tsc --Init / npx tsc --init
+
+To compile a TS file : tsc <file name> (It will create a js file where ts file will get compiled)
+
+To keep compiling : tsc --watch 
+
+//Typescript
+How to defined type
+-Add :Type after variable name 
+eg: let var:String = "Samar";
+
+
+
+
+-Primitve types : Normal assingment to var
+
+-Reference types : use {} []
+
+-Primitive types can be copied to another variable but reference type can't be copied to another 
+
+-Array is defined by type casting it ":number[] , :string[], :any[]"
+
+-If multiple values are inside array we have to add ": [ number,string,boolean]" after variable name 
+
