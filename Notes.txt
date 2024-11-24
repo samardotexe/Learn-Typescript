@@ -39,5 +39,8 @@ eg: let var:String = "Samar";
 
 -Array is defined by type casting it ":number[] , :string[], :any[]"
 
--If multiple values are inside array we have to add ": [ number,string,boolean]" after variable name 
+-If multiple values are inside array we have to add ": [ number,string,boolean]" after variable name
 
+-Whenever we call a class. Constructor runs first
+
+-TypeScript always compile the code but warns everytime
