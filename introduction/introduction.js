@@ -1,6 +1,5 @@
 "use strict";
-//Basic Types
-//Primitive Types
+//Primitive Typpe
 //number
 let id = 5;
 //string

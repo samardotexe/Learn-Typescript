@@ -1,8 +1,5 @@
-//Basic Types
 
-
-//Primitive Types
-
+//Primitive Typpe
 //number
 let id: number = 5;
 
