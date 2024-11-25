@@ -1,0 +1,8 @@
+Basic Types
+Advanced Types
+Functions in TypeScript
+Interfaces
+Classes and Object-Oriented Programming
+Generics
+Modules
+Advanced TypeScript Features
