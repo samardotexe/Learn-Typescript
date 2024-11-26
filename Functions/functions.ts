@@ -2,9 +2,12 @@
 //function is a reusable block of code
 //function is a set of statements that performs a task or calculates a value
 
+//below are the some types of function
+
 function add(num1: number, num2: number): number {
     return num1 + num2;
 }
+
 
 
 //optional parameter
@@ -16,6 +19,7 @@ function multiply(num1: number, num2: number): number {
 function substract(num1: number, num2: number = 10): number {
     return num1 - num2;
 }
+
 
 
 //rest parameter

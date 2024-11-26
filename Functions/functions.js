@@ -2,6 +2,7 @@
 //function : a block of code which only runs when it is called function
 //function is a reusable block of code
 //function is a set of statements that performs a task or calculates a value
+//below are the some types of function
 function add(num1, num2) {
     return num1 + num2;
 }
