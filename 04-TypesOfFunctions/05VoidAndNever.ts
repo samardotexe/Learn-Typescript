@@ -8,6 +8,6 @@ function logMessage(message: string): void {
 
 //Never : Functions that never return (e.g., throw an error or run infinitely
 function throwError(message: string): never {
-    throw new Error(message);
+    throw new Error(message);//throws error
 }
   
