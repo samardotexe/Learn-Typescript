@@ -8,8 +8,10 @@ function addition(a: number, b: number): number {//valid
 }
 
 
+
+//This is also called Anonymous Function
 //here I assigned variable type to only numbers
-function subtraction(x: number, y: number){//valid
+const subtract = function(x: number, y: number){//valid
     return x-y
 }
 
