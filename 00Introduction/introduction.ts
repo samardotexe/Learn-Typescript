@@ -1,4 +1,3 @@
-
 //Primitive Typpe
 //number
 let id: number = 5;
@@ -48,8 +47,6 @@ let employee: [number, string][] = [
     [2, "John"],
     [3, "Jill"],
 ];
-
-
 
 //Enumuration 
 enum UserRoles {

@@ -13,7 +13,6 @@ let d: string = "5";
 
 
 //interfaces and type aliasses
-
 //interface is nothing but face of function
 
 //defining interface
@@ -48,8 +47,6 @@ interface Admin extends User {
 
 
 //Type Aliases : Type aliases are a way to give a name to a type.
-
-
 type values = string | number | boolean; 
 
 type value = {
